@@ -18,14 +18,14 @@ export const AuthLayout = ({ children, title, description }: AuthLayoutProps) =>
             alt="Logo"
             className="mr-2 h-6 w-6"
           />
-          EduExam
+          PragyaParikshan
         </div>
         <div className="relative z-20 mt-auto">
           <h1 className="text-4xl font-semibold tracking-tight">
-            Welcome to EduExam Portal
+            Welcome to PragyaParikshan
           </h1>
           <p className="mt-4 text-lg font-normal">
-            Your comprehensive solution for managing examinations, results, and academic analytics
+            A smart and secure examination managements system
           </p>
         </div>
       </div>
