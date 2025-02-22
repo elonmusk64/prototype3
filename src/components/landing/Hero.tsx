@@ -8,10 +8,10 @@ export const Hero = () => {
       <div className="container mx-auto">
         <div className="max-w-3xl mx-auto text-center fade-in">
           <h1 className="text-5xl md:text-6xl font-bold text-secondary mb-6">
-            Welcome to EduExam Portal
+            Welcome to PragyaParikshan
           </h1>
           <p className="text-xl text-secondary/80 mb-8">
-            Your comprehensive solution for managing examinations, results, and academic analytics
+            A smart and secure examination managements system
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link to="/register/student">
